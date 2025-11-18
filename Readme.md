@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://raw.githubusercontent.com/HerzogElias/HerzogElias/main/foto_elias.png" height="200" />
 </div>
 
 ###
