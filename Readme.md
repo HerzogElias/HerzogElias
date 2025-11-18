@@ -60,8 +60,7 @@ My focus lies on writing clean code, learning every day, and improving through r
 
 ### 🎯 Goals
 - Master modern web development with a strong full-stack foundation  
-- Work on meaningful projects that challenge my skills  
-- Contribute to open-source in the future  
+- Work on meaningful projects that challenge my skills 
 - Keep improving through clean code, structure and good practices
 
 ---
