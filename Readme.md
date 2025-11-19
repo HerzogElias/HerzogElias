@@ -8,6 +8,7 @@
 
 I'm a passionate **Full-Stack Web Developer** with a strong focus on building clean, efficient and user-friendly digital experiences.  
 Currently, I'm studying **Full-Stack Web Development** and continuously expanding my knowledge in modern web technologies.
+My focus lies on writing clean code, learning every day, and improving through real-world projects.
 
 ---
 
@@ -21,10 +22,6 @@ Currently, I'm studying **Full-Stack Web Development** and continuously expandin
 <img src="https://raw.githubusercontent.com/HerzogElias/HerzogElias/output/snake.svg" alt="Snake animation" />
 
 ---
-
-### 💡 About Me
-I enjoy turning ideas into real applications—whether it's full-stack projects, interactive web tools or experimenting with new technologies.  
-My focus lies on writing clean code, learning every day, and improving through real-world projects.
 
 ---
 
@@ -48,15 +45,23 @@ My focus lies on writing clean code, learning every day, and improving through r
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
 </div>
 
+###
+
+<p align="left">My Used Tools:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+</div>
+
+###
 ---
 
-### 📌 What You’ll Find Here
-- Full-stack projects and learning experiments  
-- A selection of web applications built during my studies  
-- Repositories where I explore new frameworks and workflows  
-- My personal portfolio and ongoing practice projects
-
----
 
 ### 🎯 Goals
 - Master modern web development with a strong full-stack foundation  
@@ -64,6 +69,3 @@ My focus lies on writing clean code, learning every day, and improving through r
 - Keep improving through clean code, structure and good practices
 
 ---
-
-### 📫 Get in Touch
-Feel free to reach out or connect with me — I’m always open for collaboration, learning, or new opportunities.
